@@ -1,0 +1,9 @@
+﻿@Housings.API_HostAddress = https://localhost:7284
+
+GET {{Housings.API_HostAddress}}/api/housings
+
+###
+
+GET {{Housings.API_HostAddress}}/api/housings/1
+
+###
